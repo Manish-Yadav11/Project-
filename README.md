@@ -1,2 +1,3 @@
-# Project-
-This is my first Git Repository.
+# Project-Demo
+This is my Git Repository.
+Author - Manish Yadav
